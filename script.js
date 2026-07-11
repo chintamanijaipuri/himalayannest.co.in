@@ -1,1 +1,0 @@
-console.log('Himalayan Nest loaded');
