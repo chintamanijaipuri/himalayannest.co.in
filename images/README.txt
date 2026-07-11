@@ -1,0 +1,1 @@
+Replace hero.jpg with your best exterior or balcony photo. Add room photos here if you expand the website.

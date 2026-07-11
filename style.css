@@ -1,0 +1,7 @@
+body{margin:0;font-family:Arial,sans-serif;background:#f7f4ee;color:#243126}
+.hero{height:100vh;background:linear-gradient(rgba(20,35,25,.55),rgba(20,35,25,.55)),url('images/hero.jpg') center/cover no-repeat;display:flex;align-items:center;justify-content:center;text-align:center}
+.overlay{color:#fff;padding:20px}
+h1{font-size:56px;margin:0}h2{margin:10px 0}
+.btn{display:inline-block;margin:8px;padding:12px 22px;background:#b8863b;color:#fff;text-decoration:none;border-radius:30px}
+.content{max-width:900px;margin:auto;padding:60px 20px}
+footer{text-align:center;padding:20px;background:#1e3a32;color:#fff}
